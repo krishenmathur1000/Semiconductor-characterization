@@ -1,0 +1,27 @@
+# MRL User Proposal Draft
+
+## Project Title
+MOSFET Electrical Characterization and Semiconductor Device Testing
+
+## Project Objective
+The goal of this project is to develop practical experience with semiconductor device characterization by measuring and analyzing MOSFET electrical behavior.
+
+Initial analysis is being performed using simulated transfer-characteristic data in Python. The project will then transition to experimental measurements using MRL semiconductor testing equipment.
+
+## Measurements
+The project will investigate:
+
+- Drain current vs. gate-source voltage (ID-VGS)
+- Drain current vs. drain-source voltage (ID-VDS)
+- Threshold voltage (VTH)
+- Transconductance (gm)
+- ON/OFF current ratio
+- Device-to-device measurement variation
+
+## Equipment Needed
+- Semiconductor parameter analyzer
+- Probe station
+- Suitable MOSFET or semiconductor test devices
+
+## Data Analysis
+Measurement data will be exported and analyzed using Python to extract device parameters and compare different extraction techniques.
